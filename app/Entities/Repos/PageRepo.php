@@ -9,7 +9,7 @@ use BookStack\Entities\Models\Entity;
 use BookStack\Entities\Models\Page;
 use BookStack\Entities\Models\PageRevision;
 use BookStack\Entities\Tools\BookContents;
-use BookStack\Entities\Tools\PageContent;
+use BookStack\Custom\Entities\Tools\PageContent;
 use BookStack\Entities\Tools\TrashCan;
 use BookStack\Exceptions\MoveOperationException;
 use BookStack\Exceptions\NotFoundException;

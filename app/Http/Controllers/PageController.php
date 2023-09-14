@@ -8,7 +8,7 @@ use BookStack\Entities\Repos\PageRepo;
 use BookStack\Entities\Tools\BookContents;
 use BookStack\Entities\Tools\Cloner;
 use BookStack\Entities\Tools\NextPreviousContentLocator;
-use BookStack\Entities\Tools\PageContent;
+use BookStack\Custom\Entities\Tools\PageContent;
 use BookStack\Entities\Tools\PageEditActivity;
 use BookStack\Entities\Tools\PermissionsUpdater;
 use BookStack\Exceptions\NotFoundException;

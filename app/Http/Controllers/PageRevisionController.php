@@ -3,7 +3,7 @@
 namespace BookStack\Http\Controllers;
 
 use BookStack\Entities\Repos\PageRepo;
-use BookStack\Entities\Tools\PageContent;
+use BookStack\Custom\Entities\Tools\PageContent;
 use BookStack\Exceptions\NotFoundException;
 use Ssddanbrown\HtmlDiff\Diff;
 
